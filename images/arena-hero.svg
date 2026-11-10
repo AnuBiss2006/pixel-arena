@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Pixel Arena gaming world</title><desc id="desc">A glowing futuristic arena with a game controller and neon shapes.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b3d"/><stop offset="1" stop-color="#24104b"/></linearGradient><linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#59f3ff"/><stop offset="1" stop-color="#3478ff"/></linearGradient><linearGradient id="pink" x2="1" y2="1"><stop stop-color="#ff70cf"/><stop offset="1" stop-color="#875cff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="620" rx="36" fill="url(#bg)"/><g opacity=".24" stroke="#77eaff"><path d="M0 430 450 160 900 430M0 510 450 240 900 510M160 620 450 300 740 620" fill="none" stroke-width="2"/><path d="M120 0v620M300 0v620M480 0v620M660 0v620M840 0v620"/></g>
+<circle cx="690" cy="140" r="76" fill="#a45cff" opacity=".18"/><circle cx="690" cy="140" r="52" fill="none" stroke="#e37dff" stroke-width="5" filter="url(#glow)"/>
+<path d="M210 365c10-56 54-93 105-93h270c51 0 95 37 105 93l17 91c8 43-38 72-72 45l-78-61H343l-78 61c-34 27-80-2-72-45z" fill="#182c59" stroke="url(#cyan)" stroke-width="9" filter="url(#glow)"/>
+<path d="M326 345v90m-45-45h90" stroke="#72f7ff" stroke-width="15" stroke-linecap="round"/><circle cx="606" cy="365" r="13" fill="#ff77dc"/><circle cx="650" cy="410" r="13" fill="#66f4ff"/><circle cx="650" cy="320" r="13" fill="#a68cff"/>
+<path d="m450 80 22 47 52 7-38 36 9 52-45-25-46 25 9-52-38-36 52-7z" fill="url(#pink)" filter="url(#glow)"/><text x="450" y="555" fill="#d5faff" font-family="Arial,sans-serif" font-size="27" text-anchor="middle" letter-spacing="9">ENTER THE ARENA</text>
+</svg>
